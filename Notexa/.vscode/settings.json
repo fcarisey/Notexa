@@ -1,0 +1,18 @@
+{
+    "makefile.buildLog": "MakeFile.log",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\fcari\\Desktop\\C\\Gestionnaire_note_calendrier\\Notexa",
+            "binaryPath": "c:\\Users\\fcari\\Desktop\\C\\Gestionnaire_note_calendrier\\Notexa\\notexa",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\fcari\\Desktop\\C\\Gestionnaire_note_calendrier\\Notexa\\build",
+            "binaryPath": "c:\\Users\\fcari\\Desktop\\C\\Gestionnaire_note_calendrier\\Notexa\\build\\notexa",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}

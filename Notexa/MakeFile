@@ -1,0 +1,15 @@
+CC = gcc
+CFLAGS = -Wall -Wextra -Iinclude -O2
+SRC = $(wildcard src/*.c)
+OBJ = $(SRC:.c=.o)
+TARGET = build/notexa
+	
+all: $(TARGET)
+
+$(TARGET): $(SRC)
+	$(CC) $(CFLAGS) -o $@ $^
+
+clean:
+	del /F /Q build\*
+
+.PHONY: all clean
