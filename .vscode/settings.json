@@ -1,0 +1,19 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "makefilePath": "MakeFile1",
+            "cwd": "c:\\Users\\fcari\\Desktop\\C\\Gestionnaire_note_calendrier\\build1",
+            "binaryPath": "c:\\Users\\fcari\\Desktop\\C\\Gestionnaire_note_calendrier\\build1\\notexa1",
+            "binaryArgs": []
+        },
+        {
+            "makefilePath": "MakeFile2",
+            "cwd": "c:\\Users\\fcari\\Desktop\\C\\Gestionnaire_note_calendrier\\build2",
+            "binaryPath": "c:\\Users\\fcari\\Desktop\\C\\Gestionnaire_note_calendrier\\build2\\notexa2",
+            "binaryArgs": []
+        }
+        // Add more configurations as needed
+    ],
+    "makefile.buildLog": "MakeFile.log",
+    "makefile.makefilePath": "MakeFile"
+}
