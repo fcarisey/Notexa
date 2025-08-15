@@ -13,6 +13,15 @@
         }
     ],
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "stddef.h": "c",
+        "notehelper.h": "c",
+        "define.h": "c",
+        "note.h": "c",
+        "notewriter.h": "c",
+        "string": "cpp",
+        "editor.h": "c",
+        "editorcursor.h": "c"
     }
 }
